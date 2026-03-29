@@ -36,7 +36,12 @@ Effect: Setting Temperature to 0.0 makes the model deterministic (it will likely
 
 Effect: A low temperature keeps the tone professional, but the Repeat Penalty is slightly higher than default. This forces the model to use a wider vocabulary so it doesn't start every sentence with "Additionally..." or "Furthermore..."
 
-The "Creative Safety" Combo (Brainstorming)
+3.The "Creative genius" Combo (Brainstorming)
 
 Effect: High temperature usually makes a model "hallucinate" or talk nonsense. However, by pairing it with a high Min-P , you tell the model: "Be as creative as you want, BUT don't pick any word that is less than 10% as likely as the best word." This results in high-quality, surprising ideas that still make sense.
 
+# The models -
+
+1.Ron - "Zero-Logic" Combo (Coding/Math) - work/school
+2.Gwen - "Creative genius" Combo (Brainstorming) - innovative ideas/work
+3.jay - "Natural Professional" Combo (Email/Reports) - office/school
