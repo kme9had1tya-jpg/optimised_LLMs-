@@ -43,5 +43,7 @@ Effect: High temperature usually makes a model "hallucinate" or talk nonsense. H
 # The models -
 
 1.Ron - "Zero-Logic" Combo (Coding/Math) - work/school
+
 2.Gwen - "Creative genius" Combo (Brainstorming) - innovative ideas/work
+
 3.jay - "Natural Professional" Combo (Email/Reports) - office/school
